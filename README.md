@@ -11,6 +11,7 @@ borrower via `emit_transfer`.
 The verb is **"underwrite risk → fund the approved loan"** — the consensus output is a credit decision,
 not a yes/no on one fact.
 
+- **Live demo:** https://loanunderwrite.pages.dev
 - **Contract (Bradbury, chain 4221):** `0xB89BAFE6D8d9B26E3A7a6810AEC5c67B2Eac0975`
 - **Deployed from:** `rivale` (`0xc388…51A44`)
 - **Explorer:** https://explorer-bradbury.genlayer.com/contract/0xB89BAFE6D8d9B26E3A7a6810AEC5c67B2Eac0975
