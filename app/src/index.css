@@ -18,7 +18,7 @@
   --color-unverifiable: #fbbf24;
   --color-ring: #818cf8;
 
-  --font-sans: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  --font-sans: "Sora", system-ui, sans-serif;
 }
 
 @keyframes marquee { from { transform: translateX(0); } to { transform: translateX(calc(-100% - var(--gap, 1rem))); } }
